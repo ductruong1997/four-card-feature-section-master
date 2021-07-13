@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f9449383.chunk.css",
+    "main.js": "./static/js/main.b1fad4dd.chunk.js",
+    "main.js.map": "./static/js/main.b1fad4dd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.12a862a6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.12a862a6.js.map",
+    "static/js/2.afb1a6ff.chunk.js": "./static/js/2.afb1a6ff.chunk.js",
+    "static/js/2.afb1a6ff.chunk.js.map": "./static/js/2.afb1a6ff.chunk.js.map",
+    "static/js/3.986eee11.chunk.js": "./static/js/3.986eee11.chunk.js",
+    "static/js/3.986eee11.chunk.js.map": "./static/js/3.986eee11.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f9449383.chunk.css.map": "./static/css/main.f9449383.chunk.css.map",
+    "static/js/2.afb1a6ff.chunk.js.LICENSE.txt": "./static/js/2.afb1a6ff.chunk.js.LICENSE.txt",
+    "static/media/icon-calculator.21bc9adc.svg": "./static/media/icon-calculator.21bc9adc.svg",
+    "static/media/icon-karma.24e0debe.svg": "./static/media/icon-karma.24e0debe.svg",
+    "static/media/icon-supervisor.2dd10a2d.svg": "./static/media/icon-supervisor.2dd10a2d.svg",
+    "static/media/icon-team-builder.b885fb58.svg": "./static/media/icon-team-builder.b885fb58.svg",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a862a6.js",
+    "static/js/2.afb1a6ff.chunk.js",
+    "static/css/main.f9449383.chunk.css",
+    "static/js/main.b1fad4dd.chunk.js"
+  ]
+}
